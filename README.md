@@ -4,8 +4,8 @@ Grazie allo [speech di Maria Pia Alloggio del 16 febbraio 2017 al WordPress Meet
 Il funzionamento è molto semplice, prima di tutto devi essere [iscritto/a qui su github](https://github.com/), l'iscrizione è semplicissima, è uguale a quella che hai fatto per iscriverti su facebook ;-)
 ## Come contribuire
 L'obiettivo è quello di far crescere questo progetto e questo è possibile grazie al tuo aiuto, per contribuire puoi semplicemente andare nella sezione ["issue"](https://github.com/WordPressMeetupBologna/progetto-preventivi-web/issues) partecipare alle discussioni già aperte con nuove idee oppure aprirne una tua nel caso non sia già stata trattata.
-Le issue possno essere anche aperte per notificare eventuali correzioni da fare.
+Le issue possono essere anche aperte per notificare eventuali correzioni da fare.
 ## Perché
-Il perché è molto semplice, tutti noi sappiamo quanto sia importante creare un buon preventivo, specialmente nel nostro ambiente.
+Il perché è molto semplice, tutti noi sappiamo quanto sia importante creare un buon preventivo, specialmente nel nostro ambiente, e questo è l'obiettivo del progetto, avere una base di partenza per realizzare preventivi che spaccano :-)
 ## Chi può partecipare
 Ovviamente tutti, anche se github è notoriamente utilizzato da sviluppatori per questo progetto non serve conoscere nessun linguaggio di programmazione e il suo funzionamento è veramente molto semplice, se sai usare facebook allora sai usare anche github :-D
