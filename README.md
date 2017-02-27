@@ -1,5 +1,7 @@
 # Progetto Preventivi per chi lavora nel Web
 Grazie allo [speech di Maria Pia Alloggio del 16 febbraio 2017 al WordPress Meetup di Bologna](https://www.meetup.com/it-IT/WordPress-Meetup-Bologna/events/236195224/) abbiamo pensato che fosse una bella idea creare qualcosa di concreto e che fosse utilizzabile da tutti i professionisti del Web, cuggini compresi :-D
+
+Qui le slide dell'intervento: https://prezi.com/yydsk3ilvpgt/come-fare-un-preventivo/?utm_campaign=share&utm_medium=copy#
 ## Come funziona
 Il funzionamento è molto semplice, prima di tutto devi essere [iscritto/a qui su github](https://github.com/), l'iscrizione è semplicissima, è uguale a quella che hai fatto per iscriverti su facebook ;-)
 ## Come contribuire
